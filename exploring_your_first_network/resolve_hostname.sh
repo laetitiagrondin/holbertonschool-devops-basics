@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-ip -4 neighbour
+getent hosts "$1"
