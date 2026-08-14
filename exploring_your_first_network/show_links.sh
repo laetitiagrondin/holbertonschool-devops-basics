@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-ss -tln
+ip -br link
